@@ -1,0 +1,7 @@
+Knob	KEYWORD1
+reset	KEYWORD2
+check	KEYWORD2
+value	KEYWORD2
+debounce	KEYWORD2
+increment	KEYWORD2
+maxIncrement	KEYWORD2
